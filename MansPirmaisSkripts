@@ -1,0 +1,131 @@
+   1  VirtualBox --startvm XP
+    2  quartus
+    3  pwd
+    4  ls -l
+    5  touch aaa.txt
+    6  ls -l
+    7  reeverse
+    8  help
+    9  cat aaa.txt
+   10* ls 
+   11  echo Hello World!
+   12  ls -l
+   13  echo Hello World!
+   14  echo Hello World! >bbb.txt
+   15  ls -l
+   16  ls -l bbb.txt
+   17  cat bbb.txt
+   18  echo Hello World again ! >bbb.txt
+   19  ls -l bbb.txt
+   20  cat bbb.txt
+   21  echo Hello World! >>bbb.txt
+   22  cat bbb.txt
+   23  man echoWorld! >>bbb.txt
+   24  man echo
+   25  echo e- "Hello World!"
+   26  echo -e "HEllo\vWorld ! " >> ccc.txt
+   27  ls -l ccc.txt
+   28  cat ccc.txt
+   29  echo -e "HEllo\vWorld ! " >> ccc.txt
+   30  cat ccc.txt
+   31  ls -l /bin/bash
+   32  ls -l /bin/ls
+   33  cat bin/ls
+   34  cat bin/bash
+   35  cat bin/ls
+   36  cat -l bin/ls
+   37  cat bin/ls
+   38  cat aaa.txt
+   39  cat bbb.txt
+   40  cat bbb.txt > bb1.txt
+   41  ls -l
+   42  cat bbb1.txt
+   43  catbb1.txt
+   44  cat bb1.txt
+   45  cp bb1.txt bb2.txt
+   46  cat bb2.txt
+   47  ls -l *.txt
+   48  ipconfig
+   49  cd /
+   50  pwd
+   51  mv ~bb2.txt ~/Music/d10.tx
+   52* mv ~bb1.txt ~/Mus
+   53  mv ~aaa.txt ~/Music/d10.tx
+   54  ls
+   55  cat /home/user/music/d10.tx
+   56  cd
+   57  ls
+   58  mv bb2.txt e7.xtx
+   59  ls
+   60  cat e7.xtx
+   61  ls -l
+   62  re aa.txt
+   63  re aaa.txt
+   64  ls -l
+   65  rm aaa.txt
+   66  rm bb1.txt
+   67  rm ccc.txt
+   68  rm *.*xt*
+   69  ls -l
+   70  cat Music
+   71  see Music
+   72  \see Computer
+   73  \see Desctop
+   74  \see Desktop
+   75  cd
+   76  ls -l
+   77  history
+   78  history > history_20190916.txt
+   79  ls 
+   80  cat history
+   81  cat history20190916
+   82  cat history20190916.txt
+   83  cat history_20190916.txt 
+   84  ls -l
+   85  touch aaa.txt
+   86  ls -l
+   87  man touch 
+   88  ls -l
+   89  touch aaa.txt
+   90  ls -l
+   91  pwd
+   92  nano MansPirmaisSkrips.sh
+   93  ls -l
+   94  cat MansPirmaisSkrips.sh 
+   95  ls
+   96  whereis ls
+   97  whereis MansPirmaisSkripts.sh
+   98  ls-l
+   99  ls -l
+  100  ls -l bin/ls
+  101  ls -l /bin/ls
+  102  ./MansPirmaisSkripts.sh
+  103  ls
+  104  ./MansPirmaisSkrips.sh
+  105  echo $PATH
+  106  PATH=$PATH:~
+  107  echo $PATH
+  108  MansPirmaisSKrips.sh
+  109  ls
+  110  MansPirmaisSkrips.sh
+  111  ls -l MansPirmaisSkrips.sh
+  112  chmod 740 MansPirmaisSkrips.sh
+  113  MansPirmaisSkrips.sh
+  114  ls -l MansPirmaisSkrips.sh
+  115  ls
+  116  MansPirmaisSkrips.sh
+  117  cat error.txt
+  118  nano MansPirmaisSkrips.sh
+  119  ls
+  120  rm log.txt
+  121  MansPirmaisSkrips.sh
+  122  ls
+  123  cat log.txt
+  124  cat error.txt
+  125  man rmd
+  126  cat z100.txt
+  127  nano MansPirmaisSkrips.sh
+  128  MansPirmaisSkrips.sh
+  129  cat z100.txt
+  130  hostory > history_20190916
+  131  history
