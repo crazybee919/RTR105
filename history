@@ -1,0 +1,78 @@
+  1  VirtualBox --startvm XP
+    2  quartus
+    3  pwd
+    4  ls -l        -------------------------------- Lasīt kko
+    5  touch aaa.txt  ------------------------------------- Uztaisa failu/ maina laiku failam
+    6  ls -l
+    7  reeverse
+    8  help
+    9  cat aaa.txt
+   10* ls 
+   11  echo Hello World!
+   12  ls -l
+   13  echo Hello World!
+   14  echo Hello World! >bbb.txt
+   15  ls -l
+   16  ls -l bbb.txt
+   17  cat bbb.txt
+   18  echo Hello World again ! >bbb.txt
+   19  ls -l bbb.txt
+   20  cat bbb.txt
+   21  echo Hello World! >>bbb.txt
+   22  cat bbb.txt
+   23  man echoWorld! >>bbb.txt
+   24  man echo
+   25  echo e- "Hello World!"
+   26  echo -e "HEllo\vWorld ! " >> ccc.txt
+   27  ls -l ccc.txt
+   28  cat ccc.txt
+   29  echo -e "HEllo\vWorld ! " >> ccc.txt
+   30  cat ccc.txt
+   31  ls -l /bin/bash
+   32  ls -l /bin/ls
+   33  cat bin/ls
+   34  cat bin/bash
+   35  cat bin/ls
+   36  cat -l bin/ls
+   37  cat bin/ls
+   38  cat aaa.txt
+   39  cat bbb.txt
+   40  cat bbb.txt > bb1.txt
+   41  ls -l
+   42  cat bbb1.txt
+   43  catbb1.txt
+   44  cat bb1.txt
+   45  cp bb1.txt bb2.txt
+   46  cat bb2.txt
+   47  ls -l *.txt
+   48  ipconfig
+   49  cd /
+   50  pwd
+   51  mv ~bb2.txt ~/Music/d10.tx
+   52* mv ~bb1.txt ~/Mus
+   53  mv ~aaa.txt ~/Music/d10.tx
+   54  ls
+   55  cat /home/user/music/d10.tx
+   56  cd
+   57  ls
+   58  mv bb2.txt e7.xtx
+   59  ls
+   60  cat e7.xtx
+   61  ls -l
+   62  re aa.txt
+   63  re aaa.txt
+   64  ls -l
+   65  rm aaa.txt
+   66  rm bb1.txt
+   67  rm ccc.txt
+   68  rm *.*xt*
+   69  ls -l
+   70  cat Music
+   71  see Music
+   72  \see Computer
+   73  \see Desctop
+   74  \see Desktop
+   75  cd
+   76  ls -l
+   77  history
+   78  history > history_20190916.txt
