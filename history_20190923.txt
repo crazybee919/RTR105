@@ -19,3 +19,93 @@
    19  historyhistory
    20* history > 
    21  history > history_20190923.txt
+   22  ls -l
+   23  load git-upload
+   24  git-upload
+   25  echo $PATH
+   26  echo
+   27  ls -l
+   28  ./git-upload 
+   29  ./git-upload
+   30  nano git-upload
+   31  ./git-upload
+   32  ./git-upload a b
+   33  ./git-upload 20190923_15_15
+   34  ls -l
+   35  mv git-upload RTR105/
+   36  ls -l
+   37  mv history_20190923.txt RTR105/
+   38  ls -l
+   39  cd RTR105/
+   40  ls -l
+   41  pwd
+   42  ls -l
+   43  ls -la
+   44  ./git-upload 20190923_15_15
+   45  pwdpwd
+   46  pwd
+   47  mkdir darbi
+   48  cd darbi
+   49  pwd
+   50  nano elementry.c
+   51  ls -l
+   52  cat elementary.c
+   53  gcc elementary.c
+   54  ls -l
+   55  cat elementry.c
+   56  cat elementry.c elementart.c
+   57  gcc elementry.c 
+   58  ls -l
+   59  cat a.out
+   60  nano elementry.c
+   61  cat elementry.c 
+   62  gcc elementry.c 
+   63  ls -l
+   64  gcc elementry.c  -o prg1
+   65  ls -l
+   66  ./prg1
+   67  ./a.out
+   68  nano elementry.c 
+   69  ls -lls -l
+   70  gcc elementry.c -o prg2
+   71  ls -l
+   72  nano elementry.c 
+   73  ls -l
+   74  gcc elementry.c -o prg3
+   75  ls -l
+   76  cp elementry.c hello.c
+   77  ls -l
+   78  nano hello.c
+   79  cat hello.cv
+   80  cat hello.c
+   81  gcc hello.c -o prg4
+   82  nano hell.c
+   83  nano hello.c
+   84  gcc hello.c -o prg4
+   85  nano 
+   86  n
+   87  nano hello.c
+   88  gcc hello.c -o prg4
+   89  cat hello.c
+   90  ls -l
+   91  ./prg4
+   92  nano hello.c
+   93  gcc hello.c -o prg5
+   94  ls -l
+   95  ./prg5
+   96  nano hello.c
+   97  ./prg5
+   98  gcc hello.c -o prg6
+   99  ./prg6
+  100  nano hello.c
+  101  gcc hello.c -o prg6
+  102  ./prg6
+  103  nano hello.c
+  104  ls prg*
+  105  rm prg1 prg2 prg3 prg4 prg5 prg6
+  106  ls prg*
+  107  ls -l
+  108  rm a.out
+  109  ls -l
+  110  history_20190923.txt
+  111  history > history_20190923.txt
