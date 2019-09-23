@@ -1,21 +1,21 @@
    1  VirtualBox --startvm XP
     2  quartus
-    3  pwd
-    4  ls -l
-    5  touch aaa.txt
+    3  pwd--------------------------Lokācija Mājas
+    4  ls -l-----------------Lasīt sarakstu ar lokācijām
+    5  touch aaa.txt-------------------------Radīt aaa.txt dokumentu
     6  ls -l
     7  reeverse
     8  help
-    9  cat aaa.txt
+    9  cat aaa.txt------------------------lasīt aaa.txt
    10* ls 
-   11  echo Hello World!
+   11  echo Hello World!---------------------------atbalss Hello world!
    12  ls -l
    13  echo Hello World!
-   14  echo Hello World! >bbb.txt
+   14  echo Hello World! >bbb.txt------------------sutīt atbalssi Hello world ! uz bbb.txt
    15  ls -l
    16  ls -l bbb.txt
-   17  cat bbb.txt
-   18  echo Hello World again ! >bbb.txt
+   17  cat bbb.txt                     
+   18  echo Hello World again ! >bbb.txt       atbalss Hello world again! sutit uz bbb.txt
    19  ls -l bbb.txt
    20  cat bbb.txt
    21  echo Hello World! >>bbb.txt
@@ -62,7 +62,7 @@
    62  re aa.txt
    63  re aaa.txt
    64  ls -l
-   65  rm aaa.txt
+   65  rm aaa.txt-----------------rm ir Dzēst
    66  rm bb1.txt
    67  rm ccc.txt
    68  rm *.*xt*
@@ -115,7 +115,7 @@
   115  ls
   116  MansPirmaisSkrips.sh
   117  cat error.txt
-  118  nano MansPirmaisSkrips.sh
+  118  nano MansPirmaisSkrips.sh ----------------nano atver vietu kur editot failu šajā gadijumā skriptu
   119  ls
   120  rm log.txt
   121  MansPirmaisSkrips.sh
