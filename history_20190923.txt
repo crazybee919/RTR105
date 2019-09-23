@@ -1,0 +1,21 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  firefox &
+    4  kill 2851
+    5  git clone https://github.com/crazybee919/RTR105
+    6  ls -l
+    7  swudo apt-get install git
+    8  sudo apt-get install gitsudo apt-get install git
+    9  ls -l
+   10  RTR105
+   11  cdcd
+   12  cd
+   13  ~/RTR105_2019$ nano git-upload
+   14  nano git-upload
+   15  ls -lls -l
+   16  nano git-upload
+   17  chmod 755 git-upload
+   18  ls -l
+   19  historyhistory
+   20* history > 
+   21  history > history_20190923.txt
