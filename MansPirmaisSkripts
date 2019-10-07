@@ -1,6 +1,6 @@
    1  VirtualBox --startvm XP
     2  quartus
-    3  pwd--------------------------Lokācija Mājas
+    3  pwd--------------------------Lokācijas paradīšana
     4  ls -l-----------------Lasīt sarakstu ar lokācijām
     5  touch aaa.txt-------------------------Radīt aaa.txt dokumentu
     6  ls -l
