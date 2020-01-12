@@ -1,23 +1,30 @@
 #include<stdio.h>
 #include<math.h>
-void main(){
- double x=2.05,y,a0,a1,a2,a3,S0,S1,S2,S3;
- y = atan(-x);
- printf("y=sin(%.2f)=%.2f\n",x,y);
 
- a0 = pow(-1,0)*pow(x,2*0+1)/(1.);
- S0 = a0;
- printf("%.2f\t%8.2f\t%8.2f\n",x,a0,S0);
+long long fact(long x) {
+	if(x == 0)
+		return 1;
 
- a1 = pow(-1,1)*pow(x,2*1+1)/(1.*1*2*3);
- S1 = a0 + a1;
- printf("%.2f\t%8.2f\t%8.2f\n",x,a1,S1);
+	long long res = x;
+	while(--x > 1) {
+		res *= x;
+	}
 
- a2 = pow(-1,2)*pow(x,2*2+1)/(1.*1*2*3*4*5);
- S2 = a0 + a1 + a2;
- printf("%.2f\t%8.2f\t%8.2f\n",x,a2,S2);
+	return res;
+}
 
- a3 = pow(-1,3)*pow(x,2*3+1)/(1.*1*2*3*4*5*6*7);
- S3 = a0 + a1 + a2 + a3;
- printf("%.2f\t%8.2f\t%8.2f\n",x,a3,S3);
+double _atan(double x) {
+	x *= -1;
+	double res = ((-x)/sqrt(1 + x * x));
+	double eit = 0;
+	for(int k = 0; k < 21; k++)
+		eit += (fact(2 * k) / (pow(fact(k), 2) * pow(4, k) * (2 * k + 1))) * pow((x * x) / (1 + x * x), k);
+
+	return res * eit;
+}
+
+void main() {
+	double x=2.05;
+	
+	printf("%lf %lf\n", atan(x), _atan(x));
 }
